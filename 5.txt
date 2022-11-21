@@ -1,0 +1,13 @@
+Copying text or an image from a web page can be useful for taking notes or generating documentation. Select a link below for help on how to copy text and images from a web page, and other useful information.
+
+To copy text from a web page, find the beginning of the text you want to copy. Press and hold the left mouse button. Then, drag the mouse from the top-left to the bottom-right part of the section of text you want to copy.
+
+To copy the highlighted text, on your keyboard, press the keyboard shortcut Ctrl+C or right-click the highlighted text and click Copy.
+
+To paste text, place your cursor in the appropriate location and press the keyboard shortcut key combination Ctrl+V, or right-click where you want to paste the text and click Paste.
+The text is copied from the web page to a new or existing document. From there, you can change the formatting of the text (bold, italics, font color or size, etc.).
+
+To save (download) an image, right-click any image on a website to view the properties menu for that image, as shown below. If you want to copy that image into another document, click the Copy image option from the menu. If you want to save the image file to your computer, so it can be used or uploaded elsewhere choose the Save image as option.
+f you selected the Save image as option, a Save As or Save Picture window would open, allowing you to choose where to save the image and to change the name. Click the Save button to save the picture to your computer.
+If you selected the Copy image option, that image is saved to the clipboard. To paste the image, move the cursor to where you want to paste and press Ctrl+V or right-click where you want to paste the image and select Paste.
+
